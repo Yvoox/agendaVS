@@ -1,0 +1,10 @@
+C:\Users\alexa\source\repos\agenda\agenda\bin\Debug\agenda.exe.config
+C:\Users\alexa\source\repos\agenda\agenda\bin\Debug\agenda.exe
+C:\Users\alexa\source\repos\agenda\agenda\bin\Debug\agenda.pdb
+C:\Users\alexa\source\repos\agenda\agenda\obj\Debug\agenda.csprojResolveAssemblyReference.cache
+C:\Users\alexa\source\repos\agenda\agenda\obj\Debug\agenda.Form1.resources
+C:\Users\alexa\source\repos\agenda\agenda\obj\Debug\agenda.Properties.Resources.resources
+C:\Users\alexa\source\repos\agenda\agenda\obj\Debug\agenda.csproj.GenerateResource.Cache
+C:\Users\alexa\source\repos\agenda\agenda\obj\Debug\agenda.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\agenda\agenda\obj\Debug\agenda.exe
+C:\Users\alexa\source\repos\agenda\agenda\obj\Debug\agenda.pdb
